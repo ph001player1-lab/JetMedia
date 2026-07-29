@@ -29,7 +29,7 @@
    BOT_TOKEN и CHAT_ID, тогда сайт обратится к Bot API напрямую.
    Учтите, что на статическом хостинге токен виден всем посетителям.
    ================================================================= */
-const APPS_SCRIPT_URL = "PASTE_YOUR_WEB_APP_URL_HERE";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz7yxV2TuO3Tat7WSIEZ81aTgHC_xmTK8UEL2d4wjh1AHK7b-kCXbdTS3-9XXd0kATSaw/exec";
 
 const BOT_TOKEN = "";   // запасной вариант, обычно оставляем пустым
 const CHAT_ID   = "";   // запасной вариант, обычно оставляем пустым
